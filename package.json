@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "itis-6177-week-01",
+  "version": "1.0.0",
+  "main": "app.js",
+  "engines": {
+    "node": ">=16"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suryatejat/ITIS-6177-Week-01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suryatejat/ITIS-6177-Week-01/issues"
+  },
+  "homepage": "https://github.com/suryatejat/ITIS-6177-Week-01#readme",
+  "description": ""
+}
